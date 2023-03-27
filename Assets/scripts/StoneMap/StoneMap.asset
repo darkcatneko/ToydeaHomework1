@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a534f225093b714f8354dca481e6e1c, type: 3}
+  m_Name: StoneMap
+  m_EditorClassIdentifier: 
+  Stones:
+    MYStones:
+    - {x: 0.607248, y: 1.5135231, z: 0.36499974}
+    - {x: -0.5320078, y: 1.3209732, z: 0.36499974}
+    - {x: 0.4787537, y: 0.6740377, z: 0.36499974}
+    - {x: -0.448758, y: 0.6595361, z: 0.36499974}
+    - {x: 0.2317189, y: 1.9324601, z: 0.36499974}
+    - {x: -0.24696764, y: 1.836588, z: 0.36499974}
+    - {x: -0.70212704, y: 0.1439209, z: 0.3649995}
+    - {x: 1.3157766, y: 7.362529, z: 0.36500046}
